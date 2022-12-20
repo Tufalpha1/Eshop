@@ -30,7 +30,7 @@ docker-compose up --build --force-recreate
 docker-compose -f docker-compose.production.yml up --build --force-recreate
 ```
 
-## For running opening cypress
+## For opening cypress
 ```bash
 npm run cypress
 ```
