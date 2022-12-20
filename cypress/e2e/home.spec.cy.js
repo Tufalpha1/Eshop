@@ -7,5 +7,8 @@ describe('Navigation', () => {
 
     // The new page should contain an h2 with "Best Seller Products"
     cy.get('h2').contains('Best Seller Products')
+
+
+    
     })
 })
