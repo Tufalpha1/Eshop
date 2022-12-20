@@ -29,6 +29,11 @@ docker-compose up --build --force-recreate
 ```bash
 docker-compose -f docker-compose.production.yml up --build --force-recreate
 ```
+
+## For running opening cypress
+```bash
+npm run cypress
+```
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
